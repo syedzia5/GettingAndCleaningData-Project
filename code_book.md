@@ -22,7 +22,7 @@ the tidy data set that has been submitted with the assignmnet has following vari
 	This is the descriptive activity of the subject identified by the subject_id and is obtained by
 	using activity_id of y_(train|test).txt indexed into activity_labels.txt
 3.	The rest 66 variables contains means of  the following features of the merged train and test data 
-	and grouped by <subject_id, activity>:
+	and grouped by subject_id, Activity:
 		1.	tBodyAcc-mean()-X
 		2.	tBodyAcc-mean()-Y
 		3.	tBodyAcc-mean()-Z
